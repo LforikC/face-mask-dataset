@@ -1,6 +1,6 @@
 # train and val datasets (image directory or *.txt file with image paths)
-train: E:\12345\YOLO\yolov5-6.2\mask_1\images\train
-val: E:\12345\YOLO\yolov5-6.2\mask_1\images\valid
+train: face-mask-dataset\images\train
+val: face-mask-dataset\images\valid
 
 # number of classes
 nc: 2
