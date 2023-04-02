@@ -3,7 +3,9 @@
  [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 The dataset includes two kinds of data: wearing mask and not wearing mask. 
+
 The yolo format includes two types of tags:"Mask" and "No Mask" 
+
 The data set includes: railway station, airport, chemical laboratory, precision machinery manufacturing workshop, hospital and many other places where wearing mask needs to be standardized. 
 
 This dataset contains more than 2,500 images.
